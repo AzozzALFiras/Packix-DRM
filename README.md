@@ -1,6 +1,10 @@
 # Packix-DRM
  API and Objective-C Helper to securely use Packix's DRM API
 
+# See it 
+https://gist.github.com/andrewwiik/e4f8a6141bbde4a6db34cba6fe128ea3
+
+# Info
 
  1- need add the bundle library on file centet
  
